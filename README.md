@@ -1,7 +1,7 @@
 # 💫 About Me:<br>
 ## 👋 Hi, I'm Abdirisak Mohamed Ahmed <br>
 🖥️ front end Developer | CIT Student   <br>
-🚀 I'm passionate about coding , web development.  <br>
+🚀 I'm passionate about coding , web development, Graphic design.  <br>
 🚀 I'm currenty on my way  to becoming a full-stack web developer  <br>
 🌐 Contact with me <br>
 Facebook: https://www.facebook.com/profile.php?id=100080299662015 <br>
